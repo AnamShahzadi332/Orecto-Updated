@@ -1,0 +1,99 @@
+.subSection {
+  margin: 10px 0px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.subCardsHeading {
+  font-size: 18px;
+  font-weight: 400;
+  color: black !important;
+}
+
+.selected-upgradeButton {
+  border: 1px solid white !important;
+  color: rgb(255, 255, 255) !important;
+  margin-top: -7px !important;
+  margin-bottom: -7px !important;
+}
+.selected-upgradeButton:hover {
+  background-color: white !important;
+  color: rgb(0, 0, 0) !important;
+}
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+  width: 100% !important;
+}
+.heading {
+  font-weight: 600 !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-hidden {
+  display: none;
+}
+
+.upgradeButton {
+  border: 1px solid #008c9c !important;
+  color: #008c9c !important;
+  margin-top: -7px !important;
+  margin-bottom: -7px !important;
+}
+.upgradeButton:hover {
+  background-color: #008c9c !important;
+  color: white !important;
+}
+.selected-back-ground-card {
+  cursor: pointer;
+  background-image: linear-gradient(
+    110deg,
+    rgb(184, 84, 166),
+    rgb(230, 73, 138)
+  ) !important;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.card-title-tabs3 {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(0, 140, 156);
+  /* margin-top: 20px; */
+}
+.selected-card-title-tabs3 {
+  font-size: 12px;
+  font-weight: 400;
+  /* margin-top: 20px; */
+  color: white;
+}
+
+.card-title-tabs {
+  font-weight: 400;
+  color: rgb(0, 140, 156);
+  /* margin-top: 20px; */
+}
+.selected-card-title-tabs {
+  font-weight: 400;
+  /* margin-top: 20px; */
+  color: white;
+}
+.back-ground-card {
+  cursor: pointer;
+  background-color: white !important;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+.product-cards {
+  display: "flex";
+  justify-content: center;
+}
+
+.card-stats {
+  background-color: white !important;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}

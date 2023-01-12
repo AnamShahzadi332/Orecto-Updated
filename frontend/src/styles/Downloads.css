@@ -1,0 +1,92 @@
+.card-background {
+  background-color: white !important;
+  border: none;
+  border-radius: 15px;
+}
+
+/* Modal CSS */
+
+.modal_body_section {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.modal_body_sectiontwo {
+  width: 100%;
+  padding: 0px 10px;
+  display: flex;
+  flex-direction: row;
+  border: none !important;
+}
+/* .input_field_setting{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.make_offer_input{
+    width: 80% !important;
+    padding: 15px !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+.make_offer_input:focus{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    outline: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+} */
+.modal-footer {
+  border: none !important;
+}
+.input_field_setting {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  font-size: 30px;
+  border-bottom: 1px solid #008c9c;
+  align-items: flex-start;
+}
+.make_offer_input_text {
+  margin-top: 5px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.make_offer_input {
+  width: 35% !important;
+  margin-left: 5px;
+  outline: none;
+  border: none;
+  font-weight: 600;
+  font-size: 30px;
+}
+.make_offer_input:focus {
+  outline: none;
+  font-weight: 600;
+  font-size: 30px;
+}
+.offer_buttons {
+  background-color: #008c9c !important;
+  color: white;
+  padding: 10px !important;
+  border-radius: 50px;
+  font-size: 15px;
+  border: 1px solid #008c9c !important;
+  box-shadow: 1px 2px 4px #888888;
+  cursor: pointer;
+}
+.offer_buttons_no {
+  background-color: #008c9c !important;
+  color: white;
+  padding: 10px 12px !important;
+  border-radius: 50px;
+  font-size: 15px;
+  border: 1px solid #008c9c !important;
+  box-shadow: 1px 2px 4px #888888;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.subSection{
+    margin: 10px 0px;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius:10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.subCardsHeading{
+    font-size: 18px;
+    font-weight: 400;
+    color: black !important;
+}
+.card-background{
+    background-color: white !important;
+    border: none;
+    border-radius: 15px !important;
+}

@@ -1,0 +1,13 @@
+.bottom-tabs-bar {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .bottom-tabs-bar {
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    width: 100% !important;
+    z-index: 100;
+  }
+}

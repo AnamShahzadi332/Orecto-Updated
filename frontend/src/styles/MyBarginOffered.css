@@ -1,0 +1,77 @@
+.subSection {
+  margin: 10px 0px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.bargain-add-to-cart-btn {
+  font-size: 8px !important;
+  padding: 7px 10px !important;
+  background-color: rgb(244, 223, 43) !important;
+  color: #393b42 !important;
+}
+.bargain-delete-btn {
+  font-size: 8px !important;
+  padding: 7px 10px !important;
+  background-color: #dc3545 !important;
+}
+.bargain-re-offered-btn {
+  font-size: 8px !important;
+  padding: 7px 10px !important;
+}
+.subCardsHeading {
+  font-size: 18px;
+  font-weight: 400;
+  color: black !important;
+}
+.PurchaseHistoryDeleteIcon {
+  background-color: #fde4e9;
+  color: #f28aa3;
+  padding: 10px;
+  border-radius: 100px;
+}
+.PurchaseHistoryDeleteIcon:hover {
+  background-color: #f28aa3;
+  color: white;
+}
+.PurchaseHistoryEyeIcon {
+  background-color: #dff5fd;
+  color: #2abdf1;
+  padding: 10px;
+  border-radius: 100px;
+}
+.PurchaseHistoryEyeIcon:hover {
+  background-color: #2abdf1;
+  color: white;
+}
+.AcceptIcon {
+  background-color: #b0f1d9;
+  color: #2ca941;
+  padding: 10px;
+  border-radius: 100px;
+}
+.AcceptIcon:hover {
+  background-color: #2ca941;
+  color: white;
+}
+.PurchaseHistoryDownloadIcon {
+  background-color: #fff6dd;
+  color: #ffc928;
+  padding: 10px;
+  border-radius: 100px;
+}
+.PurchaseHistoryDownloadIcon:hover {
+  background-color: #ffc928;
+  color: white;
+}
+.PurchaseSlipHeadings {
+  font-size: 16px;
+  font-weight: 600;
+  color: #212529;
+}
+.card-background {
+  background-color: white !important;
+  border: none !important;
+  border-radius: 15px !important;
+}

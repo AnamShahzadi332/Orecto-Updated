@@ -1,0 +1,13 @@
+.btn-custom{
+    background-color: #008c9c !important;
+    color: white !important;
+    border-radius: 5px !important;
+}
+.btn-custom:hover{
+    background-color: #33a7b4 !important;
+}
+.card-background{
+    background-color: white !important;
+    border: none !important;
+    border-radius: 15px !important;
+}

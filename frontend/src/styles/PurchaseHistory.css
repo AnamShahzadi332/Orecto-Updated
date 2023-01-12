@@ -1,0 +1,63 @@
+.subSection {
+  margin: 10px 0px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.subCardsHeading {
+  font-size: 18px;
+  font-weight: 400;
+  color: black !important;
+}
+.empty-table {
+  position: relative;
+  left: 25vw;
+  padding: 20px;
+}
+.PurchaseHistoryDeleteIcon {
+  background-color: #fde4e9;
+  color: #f28aa3;
+  padding: 10px;
+  border-radius: 100px;
+}
+.badge {
+  background-color: #0abb75 !important;
+  color: white;
+  width: 50px;
+  height: 20px;
+
+  padding: 4px;
+  text-align: center;
+
+  margin-left: 6px;
+}
+.PurchaseHistoryDeleteIcon:hover {
+  background-color: #f28aa3;
+  color: white;
+}
+.PurchaseHistoryEyeIcon {
+  background-color: #dff5fd;
+  color: #2abdf1;
+  padding: 10px;
+  border-radius: 100px;
+}
+.PurchaseHistoryEyeIcon:hover {
+  background-color: #2abdf1;
+  color: white;
+}
+.PurchaseHistoryDownloadIcon {
+  background-color: #fff6dd;
+  color: #ffc928;
+  padding: 10px;
+  border-radius: 100px;
+}
+.PurchaseHistoryDownloadIcon:hover {
+  background-color: #ffc928;
+  color: white;
+}
+.PurchaseSlipHeadings {
+  font-size: 16px;
+  font-weight: 600;
+  color: #212529;
+}

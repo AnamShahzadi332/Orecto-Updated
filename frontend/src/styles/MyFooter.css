@@ -1,0 +1,146 @@
+.bg-custom {
+  background-color: #feee00 !important;
+  color: white;
+}
+
+.bottom-menus {
+  display: flex;
+  justify-content: space-evenly;
+}
+/* .btn {
+  width: 70% !important;
+} */
+.BecomeSeller {
+  background-color: #393b42 !important;
+  color: #feee00 !important;
+}
+.MyFooterHeading {
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  line-height: 40px;
+}
+.footer-seoerater {
+  max-width: 111% !important;
+  width: 111% !important;
+}
+.myFooterLinks {
+  font-size: 12px;
+  line-height: 25px;
+  text-decoration: none !important;
+}
+.myFooterLinks:hover {
+  color: #414553;
+  text-decoration: underline;
+}
+.myFooterDescription {
+  font-size: small;
+  line-height: 25px;
+}
+/* -------------- */
+.FooterMiddleSection {
+  padding: 2% 5%;
+}
+.help-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.FooterMiddleHeading-HELPLink {
+  font-weight: 600;
+  font-size: 1.41667rem;
+  color: rgb(64, 69, 83);
+  line-height: 1.4;
+  white-space: nowrap;
+}
+.FooterMiddleHeading-HELP {
+  display: block;
+  font-size: 0.83333rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: rgb(126, 133, 155);
+}
+.detail-footer {
+  font-size: 14px;
+  color: rgb(126, 133, 155);
+  margin-top: 2px;
+}
+.FooterMiddleHeading {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: rgb(64, 69, 83);
+}
+.paymentMethod {
+  display: flex;
+  justify-content: space-around;
+}
+.paymentMethod img {
+  width: 40px;
+  height: 40px;
+  margin-right: auto;
+}
+.SocialIcons img {
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+/* -------------- */
+.mainSEOFooter {
+  display: flex;
+}
+@media only screen and (max-width: 600px) {
+  .mobile-width {
+    width: 100% !important;
+  }
+  .mainSEOFooter {
+    display: none;
+  }
+  .mainFooterDiv {
+    display: block;
+  }
+  .footer-details {
+    display: none;
+  }
+}
+
+.myFooterBottomMenu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.paymentMethods {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footerSEOHeading {
+  font-size: smaller;
+}
+.footerSEOText {
+  font-size: x-small;
+  line-height: 15px;
+}
+.FooterMiddleSection {
+  padding: 1% 5%;
+}
+.email-border {
+  padding: 8px;
+  border: 1px rgb(226, 229, 241) solid;
+  border-radius: 100px;
+}
+.info-border {
+  padding: 5px;
+  border: 1px rgb(226, 229, 241) solid;
+  border-radius: 100px;
+}
+.FooterUpperSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /* background-color: #008c9c; */
+  color: #393b42;
+}

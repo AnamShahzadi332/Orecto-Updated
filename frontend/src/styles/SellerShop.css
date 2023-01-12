@@ -1,0 +1,47 @@
+.mainDiv {
+  position: relative;
+}
+.bg-banner {
+  background-image: url("https://img.freepik.com/premium-vector/beautiful-mandala-hanging-lantern-arabic-red-islamic-design-background-universal-ramadan-kareem-banner-background-with-lantern-moon-islamic-pattern-mosque-abstract-luxury-islamic-elements_181182-24833.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  /* height: 70%; */
+  height: 240px;
+}
+.profileDiv {
+  border-radius: 10px;
+  position: absolute;
+  top: 95px;
+  left: 2%;
+  height: 130px;
+}
+.profileDP {
+  height: 100px;
+}
+.profileIcons {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+/* TABS */
+.nav-link {
+  color: gray !important;
+}
+
+@media (max-width: 600px) {
+  .mainDiv {
+    padding: 0px !important;
+  }
+  .profileDiv {
+    border-radius: 10px;
+    position: absolute;
+    top: 65px;
+    left: 0% !important;
+    height: 178px;
+  }
+  .all-prod {
+    display: none;
+  }
+}

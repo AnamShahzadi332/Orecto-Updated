@@ -1,0 +1,37 @@
+.firstHeadingPlan {
+  margin-top: 10%;
+  font-size: larger;
+  font-weight: 500;
+  color: black;
+}
+.secondHeadingPlan {
+  margin-top: 10%;
+  font-size: x-large;
+  color: black;
+}
+.thirdHeadingPlan {
+  margin-top: 10%;
+  font-size: 50px;
+  color: black;
+}
+.custom-package-buttons {
+  margin-top: 10%;
+  background-color: #008c9c !important;
+  color: white !important;
+  border-radius: 5px !important;
+}
+.custom-package-buttons:hover {
+  background-color: #27cbde !important;
+}
+.package-cards {
+  display: flex;
+  justify-content: center;
+}
+.back-ground-card {
+  cursor: pointer;
+
+  background-color: white !important;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
