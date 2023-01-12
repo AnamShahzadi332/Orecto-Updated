@@ -367,7 +367,57 @@ export default function MyFooter() {
               >
                 Electronics & Mobile
               </p>
-              <p className="footerSEOText">Mobile & Accessories</p>
+              <p className="footerSEOText">Mobile & Accessories,Computer & Accessories,Wearables,Camera & Photo,Video Game,Portable Audio & Video,Accessories & Supplies,Television & Video,Home Audio,GPS  & Navigation,Software,eBook Readers & Accessories.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Home & Kitchen
+              </p>
+              <p className="footerSEOText">Kitchen & Dining,Home Decor,Patio Lawn & Garden,Bedding,Storage & Organisations,Kitchen & Home Appliances,Household Supplies,Furniture,Bath.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Books
+              </p>
+              <p className="footerSEOText">Fiction,Children's Books,Reference,Arts,Architecture & Photography,Health & Personal Development,History & Archaeology,Business & Finance,Society & Social Sciences,Computer & Technology,English Language Teaching (ELT),Lifestyle, Sports & Leisure,Biography & True Stories,Language,Food Drink,Religious & Spiritual,Technology, Engineering & Agriculture,Methematic & Science,Literature,Medical,Law,Earth science & Geography.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Beauty & Health
+              </p>
+              <p className="footerSEOText">Beauty & Fragrance,Health.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Fashion
+              </p>
+              <p className="footerSEOText">Women,Men,Bag & Luggage,Girls,Boys.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Toys & Games
+              </p>
+              <p className="footerSEOText">Party Supplies,Figures & Status,Dressing Up & Costumes,Games,Novelty Toys,</p>
               {/* <p className="footerSEOText">
                 Orecto first made waves in Pakistan’s e-commerce market after
                 its introduction in 2012. We have since grown to become
@@ -428,59 +478,48 @@ export default function MyFooter() {
               xl={2}
               xxl={2}
             >
-              <h5 className="footerSEOHeading">
-                How Orecto Transformed Online Shopping in Pakistan
-              </h5>
-              <p className="footerSEOText">
-                Orecto first made waves in Pakistan’s e-commerce market after
-                its introduction in 2012. We have since grown to become
-                Pakistan’s largest platform for online shopping with a network
-                spread across Asia in Pakistan, Bangladesh, Sri Lanka, Myanmar,
-                and Orecto.com.np. Our vision was to provide a safe, efficient
-                online marketplace platform for vendors and customers across the
-                country to come together. We started off exclusively as an
-                online fashion retail platform and over the years expanded to
-                become a complete one-stop solution for all your buying needs.
-                Orecto prides itself on not being just another ecommerce venture
-                in Asia. We work tirelessly to make sure that we provide users
-                with the best online online shopping experience and value for
-                their purchases. Whether you shop online through our website or
-                our online shopping mobile App, you can expect easy navigation,
-                customized recommendations, and a smooth online shopping
-                experience guaranteed.
+               <p className="footerSEOText">Sports & Outdoor Play,Arts & Crafts,Hobbies,Remote Controlled Toys,Puzzles,Dolls & Accessories,Baby & Todles Toys,Learning & Educations,Stuffed Animal & Plush,Building Toys,Pretend PlayRide-Ons,Tricycles & Scooter,Die-Cast & Play Vehicles,Electronics For Kids.</p>
+               <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Tools & Home Improvement
               </p>
-              <h5 className="footerSEOHeading">
-                What Makes Us Different from Other Online Shopping Platforms?
-              </h5>
-              <div className="footerSEOText">
-                <div className="font-weight-bold">
-                  Select from the Largest Online Marketplace in Pakistan
-                </div>
-                <div>
-                  With over 15 million products to select from, Orecto offers
-                  its customers the most comprehensive listing of products in
-                  the country. Whether you’re looking for electronics, apparel,
-                  appliances, or groceries – there is something for everyone.
-                </div>
-                <div className="font-weight-bold">
-                  Select from the Largest Online Marketplace in Pakistan
-                </div>
-                <div>
-                  With over 15 million products to select from, Orecto offers
-                  its customers the most comprehensive listing of products in
-                  the country. Whether you’re looking for electronics, apparel,
-                  appliances, or groceries – there is something for everyone.
-                </div>
-                <div className="font-weight-bold">
-                  Select from the Largest Online Marketplace in Pakistan
-                </div>
-                <div>
-                  With over 15 million products to select from, Orecto offers
-                  its customers the most comprehensive listing of products in
-                  the country. Whether you’re looking for electronics, apparel,
-                  appliances, or groceries – there is something for everyone.
-                </div>
-              </div>
+              <p className="footerSEOText">Power & Hand Tools,Electrical,Hardware,Painting Supplies & Wall Treatments,Safety & Security,Lighting & Ceiling Fans,Kitchen & Bath Fixtures,Building Supplies,Baskets,Iron Boards,Sewing Machine,Laundry Bags.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Office Supplies
+              </p>
+              <p className="footerSEOText">Stationery,Desk Accessories & Workspace Organizers,Education & Crafts,Tape Adhesives & Fasteners,Office Electronics,Writing & Correction Supplies,Cards & Card Stocks,Gift Wrapping Supplies,Labels, Indexes & Stamps,Papers,Envelopes, Mailers & Shipping Supplies,Cutting & Measuring Devices,Staplers & Punches,Presentation Boards,Binders & Binding Systems,Calendars, Planners & Personal Organizers,Office Storage Supplies,Time Clocks & Cards.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Sports, Fitness & Outdoor
+              </p>
+              <p className="footerSEOText">Exercise & Fitness,Cycling & Endurance,Outdoor Recreation,Boating & Water Sports,Hunting & Fishing,Sports Nutrition,Sport Protective Gear,Team Sports,Racquet Sports,Combot Sports,Skates, Skateboards & Scooters,Golf,Snow Sports,Leisure Sports & Games,Equestrain Sports.</p>
+              <p
+                style={{
+                  margin: "0px",
+                  fontWeight: "700",
+                  fontSize: "11px",
+                }}
+              >
+                Automotive
+              </p>
+              <p className="footerSEOText">Interior Accessories,Gift & Merchandise,Exterior Accessories,Replacement & Parts,Car Care,Motorcycle & Powersports,Car & Vehicle Electronics,Car Body Parts,Tyres & Wheels,Tool & Equipments,Oil & Fluids,Pain, Body & Trim,RV Parts & Accessories,Performance Parts & Accessories.</p>
+              
             </Col>
           </Row>
         </Container>
